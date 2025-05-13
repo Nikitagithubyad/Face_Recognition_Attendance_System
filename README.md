@@ -1,3 +1,3 @@
-# Face_Recognition_Attendence_System
-This is a face recognition attendence project
-It performs real-time face recognition of stored persons and mark attendence
+# Face_Recognition_Attendance_System
+This is a face recognition attendance project
+It performs real-time face recognition of stored persons and mark attendance
